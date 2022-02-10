@@ -65,7 +65,14 @@
 
   
   <url>
-    <loc>https://www.coopoc.com/tags/4everland-hexo/</loc>
+    <loc>https://www.coopoc.com/tags/4everland/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.coopoc.com/tags/Hexo/</loc>
     <lastmod>2022-02-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
