@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.coopoc.com/posts/2993878752.html</loc>
+    
+    <lastmod>2022-02-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.coopoc.com/about/index.html</loc>
     
     <lastmod>2022-02-08</lastmod>
@@ -49,11 +58,18 @@
 
   <url>
     <loc>https://www.coopoc.com/</loc>
-    <lastmod>2022-02-08</lastmod>
+    <lastmod>2022-02-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://www.coopoc.com/tags/4everland-hexo/</loc>
+    <lastmod>2022-02-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
